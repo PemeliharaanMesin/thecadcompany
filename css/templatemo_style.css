@@ -55,7 +55,7 @@ span.yellow { color: #e8eb06; }
 .templatemo_logo { 
 	text-align: center;
 	color: #982351;
-	font-size: 3.5em;
+	font-size: 1.5em;
 	font-weight: bold;
 	line-height: 74px;
 	float: left; }
@@ -503,4 +503,5 @@ span.yellow { color: #e8eb06; }
 	.templatemo_homebot_gray .text{ width: 29%; }
 	.templatemo_homebot_gray .image{width: 71%; }
  
+
   }
